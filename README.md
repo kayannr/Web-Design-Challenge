@@ -1,3 +1,3 @@
-# Web-Design-Challenge
+# Web Visualization Dashboard
 
-https://kayannr.github.io/web-design-challenge/WebVisualizations/index.html
+https://kayannr.github.io/web-visualization-dashboard/WebVisualizations/index.html
